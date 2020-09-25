@@ -1,0 +1,1 @@
+{"version":3,"file":"anchor-request-payload.js","sourceRoot":"src/","sources":["remote/anchor-request-payload.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AAAA,yCAA2B;AAC3B,6CAAqE;AAExD,QAAA,oBAAoB,GAAG,CAAC,CAAC,IAAI,CAAC;IACzC,GAAG,EAAE,CAAC,CAAC,MAAM,CAAC,IAAI,CAAC,sBAAc,CAAC;IAClC,KAAK,EAAE,CAAC,CAAC,MAAM,CAAC,IAAI,CAAC,wBAAgB,CAAC;CACvC,CAAC,CAAC"}
